@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I'm Diya 🪔
 
 <!--
 **dcteachild/dcteachild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a <a href="https://www.linkedin.com/in/diya-chacko-editor-manager/">communications expert</a> and <a href="https://www.ocregister.com/author/diya-chacko/">former</a> <a href="https://www.latimes.com/people/diya-chacko">journalist</a>. I'm interested in news products, audience engagement and content strategy.
+
